@@ -16,4 +16,4 @@ Its ability to provide rapid, high-dimensional data makes it a vital tool in mod
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=exeter-cytomics&show_icons=true&theme=radical)
