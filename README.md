@@ -4,6 +4,8 @@ Welcome to the Exeter Centre for Cytomics (EXCC) github page!
 your gateway to the advanced world of cytometry. At EXCC, we specialize in the intricate science of cytometry, a powerful technique used to measure and analyze the physical and chemical characteristics of cells. 
 Our centre is dedicated to pioneering research and providing state-of-the-art resources for both academic and commercial advancements.
 
+![Project Logo](https://github.com/exeter-cytomics/exeter-cytomics/blob/main/Intro_img/Cytomics-Web-banner-930.jpg) 
+
 # Overview
 
 Flow cytometry is a cornerstone of cytometric analysis. By suspending cells in a stream of fluid and passing them through a laser, flow cytometry can measure multiple parameters on single cell simultaneously. 
