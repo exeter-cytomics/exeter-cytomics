@@ -1,3 +1,8 @@
+## Maintained By
+
+**[Dr. Sebastiano Montante](https://github.com/semontante)**  
+📧 Email: [s.montante@exeter.ac.uk](mailto:s.montante@exeter.ac.uk)  
+
 # Exeter Centre for Cytomics (EXCC)
 
 Welcome to the Exeter Centre for Cytomics (EXCC) github page!
